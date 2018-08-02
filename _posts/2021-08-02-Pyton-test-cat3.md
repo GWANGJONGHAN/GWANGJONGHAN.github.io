@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 하둡 카테고리 테스트2
-category: Hadoop
-tag: Hadoop
+title: 파이썬 카테고리 테스트3
+category: Python
+tag: Python
 ---
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):

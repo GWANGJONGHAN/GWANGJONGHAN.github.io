@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 하둡카테고리 테스트
+title: 하둡 카테고리 테스트1
 category: Hadoop
 tag: Hadoop
 ---
