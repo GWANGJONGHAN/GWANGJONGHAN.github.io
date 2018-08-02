@@ -1,6 +1,6 @@
 .badge {
-    background-color: #bbb;
-    border-radius: 50%;
+    background-color: #fff;
+    border-radius: 0%;
     color: #000;
     display: block;
     float: right;
@@ -12,8 +12,8 @@
     transition: all 0.5s ease-in-out 0s;
 }
 
-.pl-3rem {
-    padding-left: 3rem;
+c {
+    padding-left: 5rem;
   }
   
   .tags-cloud{

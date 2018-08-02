@@ -50,7 +50,7 @@
 
   <div>
     <!--div class="sidebar-nav-item">Tags</div-->
-    <a class="sidebar-nav-item">Tags</a>
+    <a class="sidebar-nav-item">Tags
     <div class="tags-cloud">
       <div>
         {% assign first = site.tags.first %}
@@ -86,10 +86,10 @@
         {% else %}
         {% assign color = 8 | minus: base %}
         {% endif %}
-        <a href="{{ root_url }}/{{ site.tag_dir }}#{{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ 9 | minus: color }}{{ 9 | minus: color }}{{ 9 | minus: color }};">{{ tag[0] }}</a>
+        <a href="{{ root_url }}/{{ site.tag_dir }}#{{ tag[0] }}" style="font-size: {{ size }}; color: #{{ 9 | minus: color }}{{ 9 | minus: color }}{{ 9 | minus: color }};">{{ tag[0] }}</a>
         {% endfor %}
       </div>
-    </div>
+    </div></a>
   </div>
 
 
