@@ -2,7 +2,6 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Lanyon
@@ -20,3 +19,8 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+##_config.yml 수정
+#https://hoisharka.github.io/jekyll/2017/12/03/jekyll-category-001/
+category_dir: category/
+tag_dir: tag/
