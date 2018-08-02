@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               깃한광종
-tagline:             'Getting better every single moment'
-description:         '깃한광종: 데이터 수집부터 분석, 시각화까지'
+tagline:             ' Getting better every single moment'
+description:         '데이터 수집부터 분석, 시각화까지'
 url:                 https://github.com/GWANGJONGHAN
 baseurl:             ''
 paginate:            5
