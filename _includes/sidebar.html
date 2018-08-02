@@ -33,7 +33,7 @@
 
   <!--사이드바 추가 https://hoisharka.github.io/jekyll/2017/12/03/jekyll-category-001/-->
   <div>
-    <div class="sidebar-nav-item">Category</div>
+    <a class="sidebar-nav-item">Category</a>
     <nav class="content-ul">
       {% for category in site.categories %}
       <a href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}"
