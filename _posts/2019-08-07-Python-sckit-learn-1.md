@@ -19,7 +19,7 @@ import pandas as  pd
 
 oecd_bli = pd.read_csv("https://gwangjonghan.github.io/datasets/180807/lifesat/oecd_bli_2015.csv",thousands=",")
 gdp_per_capita =pd.read_csv("https://gwangjonghan.github.io/datasets/180807/lifesat/gdp_per_capita.csv",
-                            thousands=',',delimiter='\t',encoding='latin1', na_values="n/a")```
+                            thousands=',',delimiter='\t',encoding='latin1', na_values="n/a")
 ```
 
 ```python
